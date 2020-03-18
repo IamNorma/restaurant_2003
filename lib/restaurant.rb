@@ -12,8 +12,15 @@ class Restaurant
   end
 
   def closing_time(time)
+    time
   end
 
   def add_dish(dish)
+
+    dishes_added = []
+
+    @dishes.each do |dish|
+      
+    end
   end
 end

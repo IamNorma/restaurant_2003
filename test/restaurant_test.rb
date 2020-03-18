@@ -1,6 +1,7 @@
 require 'minitest/autorun'
 require 'minitest/pride'
 require './lib/restaurant'
+require 'time'
 
 class RestaurantTest < Minitest::Test
   # Iteration 1 Tests:
