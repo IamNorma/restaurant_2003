@@ -8,6 +8,12 @@ class Restaurant
   end
 
   def dishes
-    dish_set =[]
+    dish_set = []
+  end
+
+  def closing_time(time)
+  end
+
+  def add_dish(dish)
   end
 end
